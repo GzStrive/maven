@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day01_maven_parent.iml" filepath="$PROJECT_DIR$/day01_maven_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-dao/maven-dao.iml" filepath="$PROJECT_DIR$/maven-dao/maven-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-domain/maven-domain.iml" filepath="$PROJECT_DIR$/maven-domain/maven-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-service/maven-service.iml" filepath="$PROJECT_DIR$/maven-service/maven-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-web/maven-web.iml" filepath="$PROJECT_DIR$/maven-web/maven-web.iml" />
+    </modules>
+  </component>
+</project>
